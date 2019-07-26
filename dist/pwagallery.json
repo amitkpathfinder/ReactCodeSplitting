@@ -1,0 +1,1184 @@
+{
+  "propCommonInfo": {
+    "isShortlisted": false,
+    "canEditProperty": false,
+    "resCom": "R",
+    "preference": "S",
+    "screening": "Y"
+  },
+  "propGTMInfo": {
+    "resCom": "R",
+    "areaMin": 0,
+    "areaMax": 0,
+    "propId": "P43520389",
+    "bathRoomNum": "2",
+    "propertyType": "Residential Apartment",
+    "availability": "Ready to Move",
+    "currency": "INR",
+    "currentPage": "MOBILE_PD",
+    "sitetype": "m",
+    "emailAddress": "",
+    "cityId": "7",
+    "class": "A",
+    "transactType": "1",
+    "page": "PD",
+    "cityName": "Noida",
+    "localityName": "Sector-93 B Noida",
+    "preference": "Buy",
+    "budgetMin": 5960000,
+    "budgetMax": 5960000,
+    "minPrice": 5960000,
+    "maxPrice": 5960000,
+    "bedRoomNum": "2"
+  },
+  "propFactTable": {
+    "1": {
+      "price": {
+        "minPrice": 5960000,
+        "maxPrice": 5960000,
+        "pricePerUnitArea": 5369,
+        "areaUnit": "1",
+        "brokerage": "1",
+        "brokerageFrequency": "PERCENTAGE_OF_PRICE",
+        "brokerageType": "Non-Negotiable",
+        "govtCharges": null
+      }
+    },
+    "2": {
+      "address": {
+        "propName": "Grand Omaxe",
+        "propAddress": "Sector-93 B Noida"
+      }
+    },
+    "3": {
+      "configuration": {
+        "bedroom": "2",
+        "bathroom": "2",
+        "balcony": "3",
+        "propType": "1"
+      }
+    },
+    "4": {
+      "area": {
+        "superBuiltupArea": 1110,
+        "areaUnit": "1"
+      }
+    },
+    "5": {
+      "transactionType": "Resale"
+    },
+    "6": {
+      "possession": "Immediate"
+    },
+    "7": {
+      "propertyAge": "1"
+    },
+    "8": {
+      "facing": "5"
+    },
+    "9": {
+      "propertyOnFloor": {
+        "floorNum": "6",
+        "totalFloors": "10"
+      }
+    },
+    "10": {
+      "carParking": "{\"C\":1}"
+    },
+    "11": {
+      "additionalRooms": null
+    },
+    "12": {
+      "reraInfo": {
+        "RERA_STATUS_TEXT": null,
+        "RERA_STATUS": null
+      }
+    }
+  },
+  "propSummary": {
+    "price": "5960000",
+    "bedroom": "2",
+    "bathroom": "2",
+    "transactType": "1",
+    "postedByClass": "A",
+    "postedOnDate": "May 22,2019",
+    "propertyType": "1",
+    "preference": "S",
+    "availabilityStatus": "Ready to move",
+    "buildingId": "753",
+    "xidId": 29,
+    "toShowOnwardsText": false,
+    "reraType": "RERA"
+  },
+  "propRedirection": {
+    "redirect": false
+  },
+  "propPhotos": {
+    "totalmediacount": 36,
+    "showRequestPhotos": false,
+    "media": [
+      {
+        "order": "2",
+        "id": "165669881",
+        "tag": "PRMS",
+        "name": "Bedroom",
+        "pid": "174210757",
+        "isSample": false,
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/media2/8710/10/174210757O-1558543003151.jpeg",
+          "medium": "https://mediacdn.99acres.com/media2/8710/10/174210757M-1558543003151.jpeg"
+        },
+        "photonCaption": "Bedroom",
+        "label": "PROPERTY"
+      },
+      {
+        "order": "3",
+        "id": "165669885",
+        "tag": "PRMS",
+        "name": "Bedroom",
+        "pid": "174210761",
+        "isSample": false,
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/media2/8710/10/174210761O-1558543016437.jpeg",
+          "medium": "https://mediacdn.99acres.com/media2/8710/10/174210761M-1558543016437.jpeg"
+        },
+        "photonCaption": "Bedroom",
+        "label": "PROPERTY"
+      },
+      {
+        "order": "4",
+        "id": "165669889",
+        "tag": "PRMS",
+        "name": "Bedroom",
+        "pid": "174210765",
+        "isSample": false,
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/media2/8710/10/174210765O-1558543016437.jpeg",
+          "medium": "https://mediacdn.99acres.com/media2/8710/10/174210765M-1558543016437.jpeg"
+        },
+        "photonCaption": "Bedroom",
+        "label": "PROPERTY"
+      },
+      {
+        "order": "5",
+        "id": "165669901",
+        "tag": "PKIT",
+        "name": "Kitchen",
+        "pid": "174210777",
+        "isSample": false,
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/media2/8710/10/174210777O-1558543016441.jpeg",
+          "medium": "https://mediacdn.99acres.com/media2/8710/10/174210777M-1558543016441.jpeg"
+        },
+        "photonCaption": "Kitchen",
+        "label": "PROPERTY"
+      },
+      {
+        "order": "1",
+        "id": "165669873",
+        "tag": "PBATH",
+        "name": "Bathroom",
+        "pid": "174210749",
+        "isSample": false,
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/media2/8710/10/174210749O-1558543003152.jpeg",
+          "medium": "https://mediacdn.99acres.com/media2/8710/10/174210749M-1558543003152.jpeg"
+        },
+        "photonCaption": "Bathroom",
+        "label": "PROPERTY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 1,
+        "id": 0,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/entrance.jpeg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Entrance",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 2,
+        "id": 1,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/front_29.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Elevation Image",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 3,
+        "id": 2,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/29_6.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Front View",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 4,
+        "id": 3,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/compound.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Paved Compound",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 5,
+        "id": 4,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/kid_platy.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Children's Play Area",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 6,
+        "id": 5,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/2_tennis_court.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Tennis Court",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 7,
+        "id": 6,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/pool_29_3.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Swimming Pool",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 8,
+        "id": 7,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/6_gym.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Gymnasium",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 9,
+        "id": 8,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/4_billiard.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Billiards",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 10,
+        "id": 9,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/5_table_tennis.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Table Tennis",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 11,
+        "id": 10,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/7_restaurant.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Restaurant",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 12,
+        "id": 11,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/8_sample_flat_hall.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Living",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 13,
+        "id": 12,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/9_sample_flat_bedroom_1.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Bedroom 1",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 14,
+        "id": 13,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/10_sample_flat_bedroom.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Bedroom 2",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 15,
+        "id": 14,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/11_sample_flat_bedroom_3.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Bedroom 3",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 16,
+        "id": 15,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/12_sample_flat_kitchen.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Kitchen",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 17,
+        "id": 16,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "BIMG",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/images/13_sample_flat_bathroom.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Sample Toilet",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 18,
+        "id": 0,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/masterplan.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "Master Plan",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 19,
+        "id": 1,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/8tr5nzxb.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "2BR-2T(1), Super Area: 1110 sq ft, Apartment",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 20,
+        "id": 2,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/kzij8pfw.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "3BR-3T(2), Super Area: 1600 sq ft, Apartment",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 21,
+        "id": 3,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/hhnd06ko.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "3BR-3T-Basement(3), Super Area: 1625 sq ft, Apartment",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 22,
+        "id": 4,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/eka02yb6.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "3BR-3T-1SR(4), Super Area: 1900 sq ft, Apartment",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 23,
+        "id": 5,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_BFLP",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/hhumyknc.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "3BR-3T-1SR-Basment(5), Super Area: 1940 sq ft, Apartment",
+        "label": "SOCIETY"
+      },
+      {
+        "path": "",
+        "url": "",
+        "order": 24,
+        "id": 0,
+        "ext": "jpeg",
+        "pid": "",
+        "tag": "XID_DIR",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://newprojects.99acres.com/projects/omaxe/grand-wood/maps/locations_map.jpg",
+          "medium": null
+        },
+        "buildingId": "753",
+        "buildingName": "Grand_Omaxe",
+        "localityId": "11016",
+        "photonCaption": "LOCATIONPLAN",
+        "label": "SOCIETY"
+      },
+      {
+        "id": "XIDID_29",
+        "mediaType": "video",
+        "mediaVariants": {
+          "large": "https://www.youtube.com/embed/F066AvKjM-c?rel=0&wmode=transparent&autoplay=1&enablejsapi=1&version=3&autohide=0&controls=2&showinfo=0",
+          "medium": "https://img.youtube.com/vi/F066AvKjM-c/hqdefault.jpg"
+        },
+        "label": "SOCIETY"
+      },
+      {
+        "id": "VID_390405",
+        "mediaType": "video",
+        "mediaVariants": {
+          "large": "https://www.youtube.com/embed/ZrIWg-hI5oI?rel=0&wmode=transparent&autoplay=1&enablejsapi=1&version=3&autohide=0&controls=2&showinfo=0",
+          "medium": "https://img.youtube.com/vi/ZrIWg-hI5oI/hqdefault.jpg"
+        },
+        "label": "SOCIETY"
+      },
+      {
+        "id": "VID_553743",
+        "mediaType": "video",
+        "mediaVariants": {
+          "large": "https://www.youtube.com/embed/XzCje-TWVE0?rel=0&wmode=transparent&autoplay=1&enablejsapi=1&version=3&autohide=0&controls=2&showinfo=0",
+          "medium": "https://img.youtube.com/vi/XzCje-TWVE0/hqdefault.jpg"
+        },
+        "label": "SOCIETY"
+      },
+      {
+        "path": "locality11016/building0",
+        "url": "Panchsheel Balak Inter College-130873.jpeg",
+        "order": "4",
+        "id": "130873",
+        "ext": "jpeg",
+        "pid": "61258855",
+        "tag": "EDI",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/3062/18/61258855F-1464844539-Panchsheel_Balak_Inter_College.jpeg",
+          "medium": "https://mediacdn.99acres.com/3062/18/61258855D-1464844539-Panchsheel_Balak_Inter_College.jpeg"
+        },
+        "buildingId": 0,
+        "buildingName": "Building",
+        "localityId": "11016",
+        "photonCaption": "Panchsheel Balak Inter College",
+        "label": "LOCALITY"
+      },
+      {
+        "path": "locality11016/building0",
+        "url": "Mothers pride-130871.jpeg",
+        "order": "3",
+        "id": "130871",
+        "ext": "jpeg",
+        "pid": "61258845",
+        "tag": "EDI",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/3062/18/61258845F-1464844502-Mothers_pride.jpeg",
+          "medium": "https://mediacdn.99acres.com/3062/18/61258845D-1464844503-Mothers_pride.jpeg"
+        },
+        "buildingId": 0,
+        "buildingName": "Building",
+        "localityId": "11016",
+        "photonCaption": "Mothers pride",
+        "label": "LOCALITY"
+      },
+      {
+        "path": "locality11016/building0",
+        "url": "Indraprasth Public School-130869.jpeg",
+        "order": "2",
+        "id": "130869",
+        "ext": "jpeg",
+        "pid": "61258843",
+        "tag": "EDI",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/3062/18/61258843F-1464844536-Indraprasth_Public_School.jpeg",
+          "medium": "https://mediacdn.99acres.com/3062/18/61258843D-1464844536-Indraprasth_Public_School.jpeg"
+        },
+        "buildingId": 0,
+        "buildingName": "Building",
+        "localityId": "11016",
+        "photonCaption": "Indraprasth Public School",
+        "label": "LOCALITY"
+      },
+      {
+        "path": "locality11016/building0",
+        "url": "Daisy Hotel Noida-130867.jpeg",
+        "order": "1",
+        "id": "130867",
+        "ext": "jpeg",
+        "pid": "61258841",
+        "tag": "RAC",
+        "mediaType": "photo",
+        "mediaVariants": {
+          "large": "https://mediacdn.99acres.com/3062/18/61258841F-1464844507-Daisy_Hotel_Noida.jpeg",
+          "medium": "https://mediacdn.99acres.com/3062/18/61258841D-1464844507-Daisy_Hotel_Noida.jpeg"
+        },
+        "buildingId": 0,
+        "buildingName": "Building",
+        "localityId": "11016",
+        "photonCaption": "Daisy Hotel Noida",
+        "label": "LOCALITY"
+      }
+    ],
+    "tagsIndex": {
+      "PROPERTY": {
+        "start": 0,
+        "end": 4
+      },
+      "SOCIETY": {
+        "start": 5,
+        "end": 31
+      },
+      "LOCALITY": {
+        "start": 32,
+        "end": 35
+      }
+    }
+  },
+  "propAdditionalDetails": {
+    "propOwnership": {
+      "label": "Property Ownership",
+      "val": "Leasehold"
+    },
+    "carpetArea": {
+      "label": "Carpet Area",
+      "val": 1050,
+      "areaUnit": "1"
+    },
+    "furnishing": {
+      "label": "Furnishing",
+      "val": "2"
+    },
+    "typeOfFlooring": {
+      "label": "Type Of Flooring",
+      "val": "9"
+    },
+    "cornerProperty": {
+      "label": "Corner Property",
+      "val": "Yes"
+    },
+    "widthOfFacingRoad": {
+      "label": "Width Of Facing Road",
+      "val": "59.1 Feet"
+    },
+    "bookingAmount": {
+      "label": "Booking Amount",
+      "val": "100000"
+    },
+    "annualDues": {
+      "label": "Annual Dues",
+      "val": null
+    },
+    "maintenanceCharges": {
+      "label": "Maintenance Charges",
+      "val": null,
+      "criteria": null
+    },
+    "brokerage": {
+      "label": "Brokerage",
+      "val": "1",
+      "type": "Non-Negotiable",
+      "frequency": "PERCENTAGE_OF_PRICE"
+    },
+    "membershipCharges": {
+      "label": "Membership Charges",
+      "val": null
+    },
+    "expectedRentalIncome": {
+      "label": "Expected Rental Income",
+      "val": "20000"
+    },
+    "suitableTimeToCall": {
+      "label": "Suitable Time To Call",
+      "val": [
+        
+      ]
+    },
+    "waterSource": {
+      "label": "Water Source",
+      "val": "1,2"
+    },
+    "gatedCommunity": {
+      "label": "Gated Community",
+      "val": "Y"
+    },
+    "boundaryWall": {
+      "label": "Boundary Wall",
+      "val": ""
+    },
+    "overlooking": {
+      "label": "Overlooking",
+      "val": "1,2,3,4,5"
+    },
+    "powerBackUp": {
+      "label": "Power Backup",
+      "val": "F"
+    },
+    "qualityRating": {
+      "label": "Quality Rating",
+      "val": null
+    },
+    "reraInfo": {
+      "label": "RERA URL",
+      "val": null
+    },
+    "wheelChairFriendly": {
+      "label": "Wheelchair Friendly",
+      "val": "Yes"
+    },
+    "petFriendly": {
+      "label": "Pet Friendly",
+      "val": "Yes"
+    },
+    "propertyCode": {
+      "label": "Property Code",
+      "val": "P43520389"
+    }
+  },
+  "propDealerCard": {
+    "isShow": true,
+    "limit": 50,
+    "data": {
+      "name": "Vk Estates",
+      "class": "A",
+      "address": "002/ KM-14,Jaypee Kosmos sec-134, Noida,Noida",
+      "company": "V.K. Estates",
+      "profile": "Deals in all kinds of properties.",
+      "image": "https://static.99acres.com/images/dealer_pnava.png",
+      "profileId": "37924827",
+      "city": "Noida",
+      "URL": "",
+      "reraNumber": null,
+      "authorizedBy": "Builder",
+      "authorizationStatus": false,
+      "registerDate": "Mar 2019",
+      "isTopDealer": false,
+      "propListedNum": "12",
+      "propVerifiedNum": "0",
+      "dealerLocalities": "Sector-134 Noida, Sector-129 Noida, Sector-133 Noida , Sector-93 B Noida, Sector-105 Noida",
+      "reraType": "RERA"
+    },
+    "isTopDealer": false
+  },
+  "propertyDescription": {
+    "isShow": true,
+    "limit": 50,
+    "hideAddress": false,
+    "landmark": null,
+    "content": "<b>Address</b>:Florence, Sector-93 B Noida, Noida, U P<br>A 2 bedroom resale flat, located in sector-93 b, noida, is available. It is a ready to move in unfurnished flat located in grand omaxe. Situated in a prominent locality, it is a 1-5 year old property, which is in its prime condition. The flat is on the 6th floor of the building. Aesthetically designed, this property has 2 bathroom(S). The property also has 3balcony(S). The flat has a good view of the locality. The flat is a co-Operative society property and has a super built-Up area of 1110. 0 sq. Ft. The flat offers good security. The unit has 1 covered parking."
+  },
+  "propEoiData": {
+    "maskContact": false,
+    "toShowInPage": true,
+    "toShowDownloadBrochure": true
+  },
+  "societyDetails": {
+    "projectpgUrl": "https://www.99acres.com/grand-omaxe-sector-93-b-noida-npxid-r29",
+    "projectName": "Grand Omaxe",
+    "description": "Possession since 2008.",
+    "totalOccupancy": 25,
+    "openArea": null,
+    "configuration": "2,3 BHK",
+    "propertyTypes": "Apartment",
+    "towerCount": "22",
+    "unitCount": "1320",
+    "floorCount": "10"
+  },
+  "propAmenities": {
+    "home": [
+      "2",
+      "10",
+      "5",
+      "21"
+    ],
+    "society": [
+      "29",
+      "30",
+      "19",
+      "1",
+      "6",
+      "9",
+      "23"
+    ],
+    "additional": [
+      "12"
+    ]
+  },
+  "seoFooter": {
+    "title": "Properties in Sector-93 B Noida",
+    "links": [
+      {
+        "urlTitle": "Property in Sector-93 B Noida",
+        "url": "property-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "Apartments in Sector-93 B Noida",
+        "url": "residential-apartments-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "Flats in Sector-93 B Noida",
+        "url": "flats-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "3 BHK Apartments in Sector-93 B Noida",
+        "url": "3-bhk-residential-apartments-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "2 BHK Flats in Sector-93 B Noida",
+        "url": "2-bhk-flats-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "3 BHK Flats in Sector-93 B Noida",
+        "url": "3-bhk-flats-in-sector-93-b-noida-ffid"
+      },
+      {
+        "urlTitle": "60 to 75 Lac",
+        "url": "2-bhk-residential-apartments-in-sector-93-b-noida-60-lakhs-to-75-lakhs-ffid"
+      }
+    ]
+  },
+  "floorPlans": null,
+  "metaInfo": {
+    "canonicalUrl": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-sale-in-grand-omaxe-sector-93-b-noida-1110-sq-ft-spid-P43520389",
+    "description": "1110 Sq. Ft. - Buy 2 BHK / Bedroom Apartment / Flat in Grand Omaxe, Sector-93 B Noida * 33 Property & locality photos * Resale property * Possession: Immediate * Ownership: Leasehold * 6th floor (out of 10). View contact number for free. Click for complete details on 99acres.com",
+    "title": "2 BHK Apartment / Flat for sale in Grand Omaxe Sector-93 B Noida - 1110 Sq. Ft. - 6th floor (out of 10)",
+    "alternate": null
+  },
+  "shareInfo": {
+    "canonicalUrl": "/2-bhk-bedroom-apartment-flat-for-sale-in-grand-omaxe-sector-93-b-noida-1110-sq-ft-spid-P43520389",
+    "title": "59.6 Lacs, 2 BHK Apartment / Flat for sale in Grand Omaxe Sector-93 B Noida - 1110 Sq. Ft. - 6th floor (out of 10)"
+  },
+  "locationInfo": {
+    "mapStatus": "MAPPED",
+    "societyName": "Grand Omaxe",
+    "localityName": "Sector-93 B Noida",
+    "propId": "P43520389",
+    "localityId": "11016",
+    "cityId": "7"
+  },
+  "tagsInfo": {
+    "isVerified": "N",
+    "isFsl": "N",
+    "listingType": "P"
+  },
+  "propRecommendations": {
+    "recommendationType": "Resale",
+    "recommendations": [
+      {
+        "tag": "Verified on Site",
+        "title": "Options verified by 99acres",
+        "propertyDetails": [
+          {
+            "priceInWords": "Rs. 65 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1425",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "9",
+            "photoUrl": "https://mediacdn.99acres.com/8248/2/164962383T-1552905883.jpeg",
+            "spid": "41937633",
+            "propId": "O41937633",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 64 Lac",
+            "propName": "Parsvnath Prestige",
+            "bhk": "2",
+            "area": "1260",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "19",
+            "photoUrl": "https://mediacdn.99acres.com/8452/1/169041247T-1555340968.jpeg",
+            "spid": "42672845",
+            "propId": "J42672845",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Owner",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 59.75 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "9",
+            "photoUrl": "https://mediacdn.99acres.com/8520/18/170418585T-1556189469.jpeg",
+            "spid": "42365009",
+            "propId": "K42365009",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 65 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1425",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "9",
+            "photoUrl": "https://mediacdn.99acres.com/8680/8/173608355T-1558115607.jpeg",
+            "spid": "42224091",
+            "propId": "B42224091",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 53 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "11",
+            "photoUrl": "https://mediacdn.99acres.com/8273/2/165462371T-1553170382.jpeg",
+            "spid": "41313047",
+            "propId": "K41313047",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          }
+        ]
+      },
+      {
+        "tag": "Cheapest deals",
+        "title": "Save more with these",
+        "propertyDetails": [
+          {
+            "priceInWords": "Rs. 53 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "11",
+            "photoUrl": "https://mediacdn.99acres.com/8273/2/165462371T-1553170382.jpeg",
+            "spid": "41313047",
+            "propId": "K41313047",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 55 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "9",
+            "photoUrl": "https://mediacdn.99acres.com/8258/17/165177085T-1553016154.jpeg",
+            "spid": "41937749",
+            "propId": "S41937749",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 55 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "789",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "8",
+            "photoUrl": "https://mediacdn.99acres.com/8258/17/165177059T-1553016279.jpeg",
+            "spid": "41937501",
+            "propId": "Y41937501",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 59.75 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "9",
+            "photoUrl": "https://mediacdn.99acres.com/8520/18/170418585T-1556189469.jpeg",
+            "spid": "42365009",
+            "propId": "K42365009",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          },
+          {
+            "priceInWords": "Rs. 60 Lac",
+            "propName": "Grand Omaxe",
+            "bhk": "2",
+            "area": "1110",
+            "locality": "Sector-93 B Noida",
+            "photoCount": "10",
+            "photoUrl": "https://mediacdn.99acres.com/8520/18/170418563T-1556189552.jpeg",
+            "spid": "42345377",
+            "propId": "N42345377",
+            "propTypeLabel": "Residential Apartment",
+            "ownerClass": "Dealer",
+            "postedDate": null,
+            "verified": 1,
+            "availabilityText": "Ready to Move"
+          }
+        ]
+      }
+    ]
+  },
+  "propGAInfo": {
+    "resCom": "RES",
+    "preference": "BUY"
+  },
+  "propFurnishing": {
+    "furnish": "2",
+    "data": [
+      
+    ],
+    "otherFurnishing": null
+  }
+}
