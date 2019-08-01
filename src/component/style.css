@@ -209,3 +209,48 @@ body.photonPageScrollFix{overflow:hidden;padding:0;margin:0;}
             transform: scale(1.0);
           }
         }
+
+.CarouselBox{color:#333;width:100%;overflow:hidden;overflow-x:auto;}
+.CarouselBox .slidingBox{width:100%;transition:all .3s ease-in-out;white-space:nowrap;}
+.CarouselBox .slidingBox div{text-overflow:ellipsis;display:inline-block;width:100px;text-align:center;overflow:hidden;padding:8px 10px;font-size:13px;border:1px #ccc solid;color:#333;white-space:nowrap;border-radius:20px;margin-right:10px;}
+.CarouselBox .slidingBox div:last-of-type{margin-right:0}
+.CarouselContainer{position:relative;}
+
+.CarouselContainer .arrowContainerBox{position:absolute;top:0;bottom:0;display:inline-block;background:#ccc;}
+.CarouselContainer .arrowContainerBox.left{left:0;}
+.CarouselContainer .arrowContainerBox.right{right:0;}
+.CarouselContainer button{width:auto;background:transparent;outline:none;border:0;display:inline-block;top:0;bottom:0;margin:auto;position:absolute;}
+.CarouselContainer button.leftArrow,.CarouselContainer button.rightArrow{left:0;content:"";padding:0;width:10px;height:10px;display:block;border-width:2px;border-color:#0065de #0065de transparent transparent;border-style:solid;transform: rotate(-135deg);}
+.CarouselContainer button.rightArrow{left:auto;right:0;transform: rotate(45deg);}
+
+@media only screen and (min-width:768px) {
+  .CarouselBox{overflow-x:hidden;}
+}
+
+/**********MODAL***********/
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  
+  .modal-main {
+    position:fixed;
+    background: white;
+    width: 80%;
+    height: auto;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  .display-block {
+    display: block;
+  }
+  
+  .display-none {
+    display: none;
+  }

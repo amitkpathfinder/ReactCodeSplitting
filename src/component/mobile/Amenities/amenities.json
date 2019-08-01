@@ -1,0 +1,48 @@
+
+{
+    "BASIC": [
+      {
+        "name": "Children's Play Area",
+        "tag": "kids_play_area",
+        "visibility": true
+      },
+      {
+        "name": "24/7 Power Backup",
+        "tag": "power_backup",
+        "visibility": true
+      },
+      {
+        "name": "Car Parking",
+        "tag": "car_parking",
+        "visibility": false
+      }
+    ],
+    "PREMIUM": {
+      "SPORTS": {
+        "title": "SPORTS & FITNES",
+        "tuples": [
+          {
+            "name": "Badminton Court",
+            "discriminator": "badminton_court"
+          },
+          {
+            "name": "Jogging Track",
+            "discriminator": "jogging_track"
+          }
+        ]
+      },
+      "ENTMT": {
+        "title": "ENTERTAINMENT & SOCIALIZING",
+        "tuples": [
+          {
+            "name": "Amphitheatre",
+            "discriminator": "amphitheatre"
+          },
+          {
+            "name": "Billiards",
+            "discriminator": "billiards"
+          }
+        ]
+      }
+    }
+  }

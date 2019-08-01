@@ -1,0 +1,119 @@
+Delivery and Quality
+
+Requirment understanding
+Accurate Esimation
+Code Quality
+Unit/Browser/Device Compatibility Testing
+Timely Delivery
+All assigned features, modules or projects are owned end-to-end and delivered smoothly and as committed. 
+Requirements are proactively understood from product; 
+Reasonable aggressive plans are made, 
+rigorous tracking is done, 
+there are no surprises and all commitments are met;
+
+
+Proactively and complete understanding of the requirments from product and UED to avoid rework and to minimize corner cases.
+Perfect estimation of every task and project to make the delivery on of before time that also helps the dev team to do the right estimations of the projects.
+Manage parallel projects for different teams and coordination with product and other teams to utilize maximum time and achieve timely completion of the task/projects.
+As per the product requirement and urgency of projects, schedule the projects or JIRA tickets accordingly.
+Planning and prioritization of work according to the sprint
+Ensure best coding practices, device/bwowser compatibility and compatibility issues resolve before delivery.
+Ensure complete Unit/Browser/Device compatibility testing while development to maintain the quality of code and ensure zero Browser/Device compatibility issues after delivery.
+Ensure best quality code with almost zero ui issue.
+Timely delivery of all the assigned projects and tasks.
+
+---------------------------------------------
+All assigned features, modules or projects are owned end-to-end and delivered smoothly and as committed. 
+Requirements are proactively understood from product; 
+Reasonable aggressive plans are made, 
+rigorous tracking is done, 
+there are no surprises and all commitments are met;	
+
+
+40.00	
+
+- Ensure to understand the requirements in detailed discussion with product and design teams to avoid any impact on delivery and avoid corner cases at delivery time. 
+- Perfect estimation of every task and project to make the delivery on or before time smoothly so that the development team can also do the right estimation of the project. 
+- Manage work in-parallel in coordination with product and other teams to utilize maximum time and achieve timely completion of the task/projects.
+- As per the product requirement and urgency of projects, schedule the projects or JIRA tickets accordingly. 
+- Delivery of projects with best coding practices and manage compatibility to different devices and browsers and resolve all the issues before delivery.
+- Planning and prioritization of work according to the sprint
+- Ensure good quality projects deliveries
+- Follow Unit/Browser compatibility testing while development to maintain the quality of code and ensure the team is following the same.
+- Ensure best quality code with almost zero ui issue.
+
+Design and Architecture
+
+All projects/modules have good, simple design; 
+Architecture, scale, deployment is carefully thought; 
+No duplication of work across teams; 
+Modular and generic components are made.	
+
+
+
+10.00	
+- Ensure the complete understanding of the requirement with product and design, starts work on the component/widget design and architecture according to the use of that particular component/widget. 
+- Ensure the component re-usability and simple in architecture that can be easy to understand and to get that implemented.
+- Always check the requirement comes from design and if that matches existing components in the system, show them the existing functionality and recommend them to use the same.
+- Ensure the scalable, modular and generic component development for the system that can be use anywhere in the system.
+
+
+Code Speed, Quality, Page Performance Optimisation and Process
+
+Focus on efficient utilisation of engineering time; Fast deliveries; 
+All code produced is of high quality. 
+All code is reviewed. Code is elegant, structured, enhanceable, resusable, maintenable. 
+Process is implemented and process improvements are done wherever necessary;	
+
+30.00	
+
+Ensuring all the mentioned details : 
+- Better code quality and zero bug code
+- Browser/Device testing before QA and after integration of dynamic code.
+- Quantity & Quality of bugs 
+- Feedback from code reviews
+- Post Production bugs
+- Bench marking results/Deviations
+- Code Coverage
+- Ensure to improve Google page speed rank for mobile and desktop site's key pages to 80+.
+- Follow research and study website's pages performance by different tools and follow the optimization steps and encourage the team to follow this practice to check website performance.
+- Discussion with module owner to work on performance steps timely.
+- Follow regular monitoring on live site development images to check whether optimized or not.
+- Pro-actively check and help juniors towards solving technical issues/problems
+
+
+Leadership and Management
+
+Extreme maturity and positivity is displayed in managing and leading projects and people. Hiring is proactively done and there is full accountability for retention of team members; High energy, proactiveness and sense of urgency is displayed. End-to-end ownership is displayed. People in team are engaged and motivated; Conflicts are resolved positively; Proactive collaboration is done with all stakeholders (tech folks, product, business); Problems are solved;	
+
+10.00	
+
+- Follow Agile process in development and sprint to update everybody about the status of work and encourage the team for the same.
+- Follow stand ups to share the status of project and discuss doubts and encourage the team for the same.
+- Follow Regular update on tickets to maintain the project dashboard and encourage the team for the same.
+- Ensure status of work on JIRA and scrum meetings to make project tracking easy for every watcher.
+- Discuss about the hiring need if required.
+- New technology suggestion/discussion and POC
+- Guidelines and documentation. 
+- Mentoring & team coaching
+- Provide & Accept continuous team feedback 
+- Explore new technologies and encourage team members to follow the same.
+- Implementation of common widget library for website.
+- Encourage team to work on new technologies that help us to build the system fast and optimized.
+- Leave planning, team discussion on learning and improvement in the system.
+- Collaborate and work closely with other teams towards common goals
+- Work closely with Product, Sales, Design & QA Teams. Maintain a healthy professional relationship with all functions
+
+
+Tech Innovation
+
+Outside of assigned activities some other interesting or useful stuff is done; This may include a new utility, presentations on interesting topics, a demo of a new tool or technology etc.	
+
+10.00	
+
+- Learning new technologies to enhance the existing work/project. Focusing on re-usability factor and optimizing the code.
+- Write reusable code and learn new UI trends coming in the market to implement in our projects which also helps process/performance improvements
+- POC's to ensure the benefits of new technologies. Where to apply which?
+- Present to the team the latest in UI development techniques
+- Encourage team to work on new technologies that help us to build the system fast and optimised.
+- Ensure participation in the learning activities and encourage the team members to participate in the same.

@@ -1,0 +1,21 @@
+Contact Us[Static] : https://www.99acres.com/load/Company/contactUs?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Career With Us[Link] : http://careers.99acres.com/
+
+Request Info[Form] : https://www.99acres.com/load/Company/requestinfo?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Terms & Conditions[Static]: https://www.99acres.com/load/Company/termsconditions?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Feedback[exist]:https://www.99acres.com/load/Company/feedback?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Privacy Policy[exist] : https://www.99acres.com/load/Company/privacy?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Report a problem[same as feedback] : https://www.99acres.com/load/Company/feedback?lstAcn=CP_R&lstAcnId=1&src=FTR
+
+Testimonials[Dynamic with API]:https://www.99acres.com/load/Company/testimonial?lstAcn=&lstAcnId=&src=FTR
+
+Summons/Notices[Form]:https://www.99acres.com/load/Company/summons_notices?lstAcn=TESTIMONIAL&lstAcnId=0&src=FTR
+
+Grievances[Form] : https://www.99acres.com/load/Company/grievances?lstAcn=&lstAcnId=&src=FTR
+
+Safety Guide[Static]: https://www.99acres.com/load/Company/safetyguide?lstAcn=&lstAcnId=&src=FTR

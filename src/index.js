@@ -3,11 +3,11 @@ import ReactDOM from "react-dom";
 import App from "./component/app";
 import "./styles.css";
 
-// class App extends React.Component {
-//   render() {
-//     return <div>Hello {this.props.name}</div>;
-//   }
-// }
+const isMobile = /iphone|ipod|android|ie|blackberry|fennec/i.test(navigator.userAgent.toLowerCase());
+var useragent = 'desktop';
+if (isMobile) {
+  useragent = 'mobile';
+}
 
 var mountNode = document.getElementById("app");
-ReactDOM.render(<App name="Jane" />, mountNode);
+ReactDOM.render(<App useragent={useragent} name="Jane" />, mountNode);

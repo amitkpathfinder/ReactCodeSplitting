@@ -1,0 +1,100 @@
+    .amenitiesBlock{float: left;width: 33.33333%;height: 74px;font-size: 13px!important;color: #333;text-align: center;padding: 1% 2%; margin: 10px 0;}
+    .xidBasicAmn .hr_water_supply{background-position:-193px -1px}
+    .xidBasicAmn .car_parking{background-position:-1px -25px}
+    .xidBasicAmn .kids_play_area{background-position:-73px -24px}
+    .xidBasicAmn .club{background-position:-49px -24px}
+    .xidBasicAmn .firefighting_equipment{background-position:-243px -1px}
+    .xidBasicAmn .gymnasium{background-position:-24px -24px}
+    .xidBasicAmn .intercom{background-position:-265px 1px}
+    .xidBasicAmn .lift{background-position:-171px -1px}
+    .xidBasicAmn .power_backup{background-position:-217px -1px}
+    .xidBasicAmn .social{background-position:0 0}
+    .xidBasicAmn i{height:22px;width:22px}
+    .xidBasicAmn .absentAmn i,.xidBasicAmn i.absentAmn{opacity:.5;filter:grayscale(1)}
+    .xidBasicAmn .absentAmn i~div,.xidBasicAmn i.absentAmn~div{color:#aaa}
+    .absentAmn{color:gray}
+    .mod-sp { background-image: url(https://www.99acres.com/images/optiCommon99-v1.png); background-repeat: no-repeat; background-size: 300px 300px; width: 24px; height: 24px; display: inline-block; }
+    ._99commonSp,[data-imgCommon] {
+        background-image: url(https://www.99acres.com/images/optiCommon99-v1.png);
+        background-repeat: no-repeat;
+        background-size: 300px 300px;
+        width: 24px;
+        height: 24px;
+        display: inline-block;
+    }
+    .spImg,.npIconS {
+        background: url(https://www.99acres.com/images/optiXid99-v1.png) no-repeat;
+        display: inline-block;
+        vertical-align: middle;
+        background-size: 288px 288px;
+        height: 22px;
+        width: 22px;
+    }
+    .lineHead {
+        text-align: center;
+        position: relative;
+    }
+    .lineHead.lineHead>div {
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        background-color: #fff;
+        position: relative;
+        z-index: 1;
+        width: auto;
+        padding: 2px 10px;
+        text-transform: capitalize;
+        float: none;
+    }
+    .lineHead:after {
+        content: "";
+        display: block;
+        height: 1px;
+        border-top: 1px solid #ccc;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+    .xidPrmAmn>div>ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        width: 46%;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 7%;
+    }
+    .xidPrmAmn>div>ul:nth-child(2) {
+        margin-right: 0;
+    }
+    .xidPrmAmn ul li.amnSubHead {
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #333;
+        font-size: 0.875rem;
+        margin: 15px 0;
+    }
+    .xidPrmAmn ul li {
+        color: #666;
+        white-space: normal;
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .xidPrmAmn ul li:first-child {margin-top: 15px;}
+
+ .lineHead>div {
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        background-color: #fff;
+        position: relative;
+        z-index: 1;
+        width: auto;
+        padding: 2px 10px;
+        text-transform: capitalize;
+        float: none;
+    }

@@ -1,4 +1,7 @@
 import React from 'react';
+import ModalBox from './Modalbox';
+import SearchSuggester from './Suggester';
+
 
 const ResultsPage = (props) => {
   return (
@@ -8,6 +11,7 @@ const ResultsPage = (props) => {
     			<img src="https://mediacdn.99acres.com/media2/8710/12/174212273T-1558544036221.jpeg" />
     		</div>
     		<div className="PropertyContent">
+				<ModalBox pushComp={<SearchSuggester/>} />
     			<div>
     				<a href="https://flaviocopes.com/react-server-side-rendering/">
     					react-server-side-rendering

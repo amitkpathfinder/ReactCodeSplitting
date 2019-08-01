@@ -1,0 +1,40 @@
+1. Header
+	.Hamburger - JS
+	.Shortlist - JS
+	.Share - Layer Call (JS)
+	.Search - Link Trigger
+2. Gallery -  JS
+3. Fact Table - Data Rendering
+	.Info Icon - Dialog Box (JS)
+4. Download Brochure - EOI (JS)
+5. Unit Details and Floor Plan
+	Tabs and Content - JS
+6. Offers and Deals
+	Tabs and Sliding content - JS
+7. Amenities & Lifestyle - Rendering
+8. Recommendation - Third Party React Component
+9. Description, About this project, Disclaimer-1, Disclaimer-2 -  More Less - JS
+10. FAQ - Content Rendering
+11. Properties in this project - Link
+12. VSP - Third Party React Component
+13. Trending Projects and Link to redirect - Rendering
+14. Quicki Links  - SEO Content 
+15. Footer - Links
+16. EOI Sticky - JS
+
+
+JS Dependent_________________
+
+1. Header
+	.Hamburger - JS
+	.Shortlist - JS
+	.Share - Layer Call (JS)
+2. Gallery -  JS
+3. .Info Icon - Dialog Box (JS)
+4. Download Brochure - EOI (JS)
+5. Unit Details and Floor Plan
+	Tabs and Content - JS
+6. Offers and Deals
+	Tabs and Sliding content - JS
+7. Description, About this project, Disclaimer-1, Disclaimer-2 -  More Less - JS
+8. EOI Sticky - JS

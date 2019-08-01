@@ -4,6 +4,7 @@ import ToggleButtonOnOff 				from "./ToggleButtonOnOff";
 import SearchSuggester 					from "./Suggester";
 import SearchSuggesterDebounce 					from "./Suggester_debounce";
 import ResultsPage from "./resultsPage";
+import CarouselCustom from "./CarouselCustom";
 
 /* Normal Imported Gallery */
 // import PhotonGallery from "./photonGallery";
@@ -78,6 +79,12 @@ cc = b.join();
 console.log(cc.split(','));
 /* Photon Js */
 
+const sendData = [
+	{id: "1", name: "First"},
+	{id: "2", name: "Second"},
+	{id: "3", name: "Third"},
+	{id: "4", name: "Fourth"}
+ ];
 
 class App extends Component {
 
@@ -101,11 +108,16 @@ class App extends Component {
     render() {
 
 		let { PhotonGallery } = this.state;
+		let useragent = this.props.useragent;
 
         return (<div>
         			<div>
         				Hello {this.props.name}
         			</div> 
+					<CarouselCustom viewType={useragent} ctype={'txrend'} 
+						url={'http://localhost/api/product/read.php'} 
+							data={sendData} slideNumber={3} 
+								slideWidth={110} />
         			My React App
         			<div>Widget One:</div>
 					<InPageTabsApiScroll/>

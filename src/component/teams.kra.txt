@@ -1,0 +1,18 @@
+Understand & practice estimation techniques and targeting to complete the task before or on the committed date using coding guidelines and best practices, Also ensuring quality of work done and smoke testing before releasing for integration.
+
+
+Ensuring all the mentioned details : 
+- Better code quality and zero bug code
+- Browser/Device testing before QA and after integration of dynamic code.
+- Quantity & Quality of bugs 
+- Feedback from code reviews
+- Post Production bugs
+- Bench marking results/Deviations
+- Code Coverage
+
+Learning new technologies to enhance the existing work/project. Focusing on re-usability factor and optimizing the code.
+Write reusable code and learn new UI trends coming in the market to implement in our projects which also helps process/performance improvements
+
+
+
+Support and communicate every member of team when required, Provide optimised ideas. And always keen to help in integrating the modules with integration team.And owning the particular task.
